@@ -1,5 +1,5 @@
 #Linear Regression and gradient descent from scratch
-# Steps should be 100000
+# Steps should be 1000000 for ideal prediction
 m = 10
 c = 10
 y_t = [60, 70, 80, 90, 100, 110,120,130,140,150]
